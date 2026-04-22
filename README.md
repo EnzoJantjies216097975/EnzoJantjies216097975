@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an online fitness platform.<br>👯 I’m looking to collaborate on anything merging creativity with technology<br>🤝 I’m looking for help with optimizing game engines, advanced machine learning techniques, and building scalable back-end systems.<br>🌱 I’m currently learning Blender, Unreal Engine, React Native and data science workflows.<br>💬 Ask me about software engineering, VFX, Photography, Videography, VFX or blending art with technology<br>⚡ Fun fact I love Cinema and love merging cinematic idea into interactive experiences.
+🔭 I’m currently working on an prduction booking platform.<br>👯 I’m looking to collaborate on anything merging creativity with technology<br>🤝 I’m looking for help with optimizing game engines.<br>🌱 I’m currently learning Blender, Unreal Engine, React Native.<br>💬 Ask me about VFX, Photography, Videography, VFX or blending art with technology<br>⚡ Fun fact I love Cinema and love merging cinematic ideas into interactive experiences.
 
 
 ## 🌐 Socials:
